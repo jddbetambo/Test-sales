@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Ledger — Apparel Sales Analytics & Multi-View Dashboard",
+  "description": "Interactive retail and apparel sales analytics workspace featuring multi-dimensional visualizations, custom chart studio, basket co-occurrence analysis, and real-time transaction ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
